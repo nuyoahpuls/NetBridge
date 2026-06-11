@@ -1,0 +1,58 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+*.class
+*.log
+run_log.txt
+
+.idea/
+out/
+target/
+bin/
+
+*.pcapng
+*.pcap
+
+tcp_client1_big.txt
+tcp_client2_big.txt
+udp_input_big.txt
+
+*.out
+*.iml
+.idea/
+*.doc
+*.docx
+
+# 忽略所有 txt
+*.txt
+
+# 但保留所有目录下名为 readme.txt 的 txt
+!readme.txt
+!**/readme.txt
