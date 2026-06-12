@@ -18,7 +18,7 @@ public class ReliableUdpClient {
     public static void main(String[] args){
         UdpRunLogger.init("UDP CLIENT");
         if(args.length <4 || args.length > 6){
-            System.out.println("参数错误/n <serverHost> <serverPort> <filePath> <studentLast4> [packetCountLimit] [timeoutMs]");
+            System.out.println("参数错误/n <serverHost> <serverPort>  <studentLast4> <filePath> [packetCountLimit] [timeoutMs]");
             UdpRunLogger.error("Invalid arguments");
             return;
         }
@@ -84,7 +84,7 @@ public class ReliableUdpClient {
                     int ack = Math.min(response.ack,totalPackes);
                     String serverTime =UdpProtocol.payloadAsAscii(response.payload);//服务器返回的时间戳，转为字符串
                     if(ack >=baseSeq){
-                        long now = System.nanoTime();
+                        long now = System.nanoTime();//当前时间
                         for(int seq = baseSeq;seq<=ack;seq++){
                             DataPacketState packet = packets.get(seq-1);
                             if(!packet.acked){

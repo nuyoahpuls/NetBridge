@@ -1,5 +1,6 @@
 import java.io.*;
 import java.net.Socket;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.*;
@@ -68,10 +69,9 @@ public class ReverseTcpClient {
 
                     byte[] reversedBlock = Protocol.readReverseAnswer(in);//接受反转后的数据块
                     RunLogger.received(peer, Protocol.TYPE_REVERSE_RESPONSE, Protocol.DATA_HEADER_SIZE + reversedBlock.length);
-//                    reversedWholeFile.write(reversedBlock);//把反转后的数据块写入
                     reversedBlocks.add(reversedBlock);//保存反转后的数据块到列表中
-                    System.out.println("收到" + (i + 1) + ", length = " + reversedBlock.length);
-
+                    String reverseText= new String(reversedBlock, StandardCharsets.US_ASCII);
+                    System.out.println("收到第" + (i + 1) + "块, length = " + reversedBlock.length+" "+reverseText);
                 }
                 //把反转后的数据块写入输出文件
                 for(int i= reversedBlocks.size() - 1; i>=0; i--){

@@ -56,15 +56,15 @@ public class UdpProtocol {
             throw new IllegalArgumentException("payload太大，最大只能是 " + PAYLOAD_SIZE + " 字节");
         }
         ByteBuffer buffer  = ByteBuffer.allocate(HEADER_SIZE + payload.length);//头部 + 数据的长度
-        buffer.putShort(MAGIC);
-        buffer.put(VERSION);
-        buffer.put(type);
-        buffer.putShort((short) (studentToken & 0xFFFF));
-        buffer.putInt(seq);
-        buffer.putInt(ack);
-        buffer.putInt(byteStart);
-        buffer.putInt(byteEnd);
-        buffer.putShort((short)(payload.length & 0xFFFF));
+        buffer.putShort(MAGIC);//2字节的魔术
+        buffer.put(VERSION);//1字节的版本
+        buffer.put(type);//1字节的类型
+        buffer.putShort((short) (studentToken & 0xFFFF));//2字节的token
+        buffer.putInt(seq);//4字节的seq
+        buffer.putInt(ack);//4字节的ack
+        buffer.putInt(byteStart);//4字节的开始
+        buffer.putInt(byteEnd);//4字节的结束
+        buffer.putShort((short)(payload.length & 0xFFFF));//2字节的长度
         buffer.put(payload);
         return buffer.array();
     }
