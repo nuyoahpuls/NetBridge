@@ -1,0 +1,742 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="ER-Diagram" name="全局简化版ER图">
+    <mxGraphModel dx="6458" dy="5394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="106" edge="1" parent="1" source="2" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="33" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="107" edge="1" parent="1" source="33" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="3" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="108" edge="1" parent="1" source="2" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="34" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="109" edge="1" parent="1" source="34" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="4" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="110" edge="1" parent="1" source="5" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="35" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="111" edge="1" parent="1" source="35" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="6" value="M" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="112" edge="1" parent="1" source="5" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="36" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="113" edge="1" parent="1" source="36" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="7" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="114" edge="1" parent="1" source="3" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="37" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="115" edge="1" parent="1" source="37" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="7" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="116" edge="1" parent="1" source="7" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="38" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="117" edge="1" parent="1" source="38" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="8" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="118" edge="1" parent="1" source="7" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="39" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="119" edge="1" parent="1" source="39" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="9" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="120" edge="1" parent="1" source="7" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="40" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="121" edge="1" parent="1" source="40" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="11" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="122" edge="1" parent="1" source="10" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="41" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="123" edge="1" parent="1" source="41" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="11" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="124" edge="1" parent="1" source="10" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="42" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="125" edge="1" parent="1" source="42" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="12" value="M" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="126" edge="1" parent="1" source="11" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="43" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="127" edge="1" parent="1" source="43" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="12" value="M" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="128" edge="1" parent="1" source="7" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="44" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="129" edge="1" parent="1" source="44" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="13" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="130" edge="1" parent="1" source="12" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="45" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="131" edge="1" parent="1" source="45" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="13" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="132" edge="1" parent="1" source="13" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="46" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="133" edge="1" parent="1" source="46" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="14" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="134" edge="1" parent="1" source="17" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="47" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="135" edge="1" parent="1" source="47" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="14" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="136" edge="1" parent="1" source="4" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="48" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="137" edge="1" parent="1" source="48" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="15" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="138" edge="1" parent="1" source="15" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="49" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="139" edge="1" parent="1" source="49" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="16" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="140" edge="1" parent="1" source="15" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="50" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="141" edge="1" parent="1" source="50" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="12" value="M" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="142" edge="1" parent="1" source="15" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="51" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="143" edge="1" parent="1" source="51" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="3" value="M" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="144" edge="1" parent="1" source="15" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="52" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="145" edge="1" parent="1" source="52" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="17" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="146" edge="1" parent="1" source="14" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="53" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="147" edge="1" parent="1" source="53" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="18" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="148" edge="1" parent="1" source="13" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="54" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="149" edge="1" parent="1" source="54" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="30" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="150" edge="1" parent="1" source="9" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="55" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="151" edge="1" parent="1" source="55" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="30" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="152" edge="1" parent="1" source="11" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="56" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="153" edge="1" parent="1" source="56" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="30" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154" edge="1" parent="1" source="7" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="57" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="155" edge="1" parent="1" source="57" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="19" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="156" edge="1" parent="1" source="19" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="58" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="157" edge="1" parent="1" source="58" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="20" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="158" edge="1" parent="1" source="7" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="59" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="159" edge="1" parent="1" source="59" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="20" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="160" edge="1" parent="1" source="19" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="60" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="161" edge="1" parent="1" source="60" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="21" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="162" edge="1" parent="1" source="22" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="61" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="163" edge="1" parent="1" source="61" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="21" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="164" edge="1" parent="1" source="7" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="62" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="165" edge="1" parent="1" source="62" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="24" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="166" edge="1" parent="1" source="23" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="63" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="167" edge="1" parent="1" source="63" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="24" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="168" edge="1" parent="1" source="24" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="64" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="169" edge="1" parent="1" source="64" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="21" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="170" edge="1" parent="1" source="12" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="65" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="171" edge="1" parent="1" source="65" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="25" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="172" edge="1" parent="1" source="7" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="66" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="173" edge="1" parent="1" source="66" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="26" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="174" edge="1" parent="1" source="26" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="67" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="175" edge="1" parent="1" source="67" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="27" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="176" edge="1" parent="1" source="13" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="68" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="177" edge="1" parent="1" source="68" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="27" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="178" edge="1" parent="1" source="25" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="69" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="179" edge="1" parent="1" source="69" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="27" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="180" edge="1" parent="1" source="26" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="70" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="181" edge="1" parent="1" source="70" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="28" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="182" edge="1" parent="1" source="13" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="71" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="183" edge="1" parent="1" source="71" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="29" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="184" edge="1" parent="1" source="15" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="72" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="185" edge="1" parent="1" source="72" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="29" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="186" edge="1" parent="1" source="5" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="73" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="187" edge="1" parent="1" source="73" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="31" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="188" edge="1" parent="1" source="5" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="74" value="1" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="189" edge="1" parent="1" source="74" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;fontColor=#000000;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" target="32" value="N" z="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="75" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="1494.176760022797" y="-181.6396531725904" as="geometry" />
+        </mxCell>
+        <mxCell id="2" parent="75" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="行政区划" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="76" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="947.1277343058268" y="97.13752348514365" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="76" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="社区" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="77" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="1203.9195530158252" y="-509.33614761911565" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="77" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="服务机构" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="78" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="1166.4784626519493" y="572.0101398803835" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="78" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="用户" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="79" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="1673.6681356460726" y="824.0227761040496" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="79" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="角色" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="80" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="316.07167907942477" y="438.3443137135814" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="80" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="老人档案" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="81" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="-21.468868182221485" y="912.2855071546406" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="81" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="老人联系人" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="82" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="647.6480303851855" y="-86.54222392864486" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="82" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="能力评估" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="83" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="159.99999999999997" x="109.17741932702452" y="-1218.8077039740654" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="83" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="服务包" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="84" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="250.95466936969694" y="-673.4940153264297" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="84" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="照护计划" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="85" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="-199.33783812968545" y="-783.0116246947508" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="85" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="服务项目" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="86" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="-335.61990144981837" y="-161.7839463524018" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="86" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="服务订单" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="87" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="-534.2406092626159" y="570.4857266308035" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="87" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="派单记录" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="88" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="510.57231326347573" y="-347.76105261278616" as="geometry" />
+        </mxCell>
+        <mxCell id="15" parent="88" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="护工档案" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="89" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160.0000000000001" x="929.8942516919313" y="-815.0577326104728" as="geometry" />
+        </mxCell>
+        <mxCell id="16" parent="89" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="护工资质" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="90" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="58.60103739281365" y="256.8013150953401" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="90" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="排班信息" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="91" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="-819.5012231284529" y="1047.5074173309908" as="geometry" />
+        </mxCell>
+        <mxCell id="18" parent="91" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="工时记录" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="92" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="623.4104196369458" y="1106.2565028026106" as="geometry" />
+        </mxCell>
+        <mxCell id="19" parent="92" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="监测设备" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="93" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="773.5062852447863" y="886.911792497863" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="93" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="设备绑定历史" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="94" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="584.6314307919736" y="1644.0719184533884" as="geometry" />
+        </mxCell>
+        <mxCell id="21" parent="94" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="体征数据" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="1074.833549590529" y="1745.8837518209662" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="95" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="指标阈值" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="96" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="-99.8897287225758" y="1659.4262996774162" as="geometry" />
+        </mxCell>
+        <mxCell id="23" parent="96" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="事件等级时限" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="97" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="214.1796912417591" y="1218.115179409899" as="geometry" />
+        </mxCell>
+        <mxCell id="24" parent="97" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="应急事件" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="98" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="-797.0650809815312" y="-717.0938286888456" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="98" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="补贴政策" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="99" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160.00000000000006" x="-576.5611360228706" y="358.46827646524804" as="geometry" />
+        </mxCell>
+        <mxCell id="26" parent="99" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="补贴申报" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20.000000000000057" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="100" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="-933.4389485825378" y="-166.47695832014207" as="geometry" />
+        </mxCell>
+        <mxCell id="27" parent="100" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="申报明细" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="101" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="-1098.5257405754708" y="572.9119498626378" as="geometry" />
+        </mxCell>
+        <mxCell id="28" parent="101" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="申报审核记录" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="102" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="-107.31035801900796" y="-149.75390183791842" as="geometry" />
+        </mxCell>
+        <mxCell id="29" parent="102" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="质量抽查" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="103" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="337.4791529081401" y="-473.7208796868333" as="geometry" />
+        </mxCell>
+        <mxCell id="30" parent="103" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="服务准入依据" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="104" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="1652.591912805007" y="608.3119239649917" as="geometry" />
+        </mxCell>
+        <mxCell id="31" parent="104" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="业务审计记录" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="105" connectable="0" parent="1" style="group;dropTarget=0;pointerEvents=0;" vertex="1" z="1">
+          <mxGeometry height="90" width="160" x="1648.9275543791607" y="265.79003723826054" as="geometry" />
+        </mxCell>
+        <mxCell id="32" parent="105" style="rounded=1;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="通知记录" vertex="1" z="3">
+          <mxGeometry height="50" width="120" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="管辖社区" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="1299.6252046704285" y="14.059458761966482" as="geometry" />
+        </mxCell>
+        <mxCell id="34" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="管理机构" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="1532.2372953104668" y="-426.35952120781" as="geometry" />
+        </mxCell>
+        <mxCell id="35" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="拥有角色" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="1505.311795266131" y="659.3401224731325" as="geometry" />
+        </mxCell>
+        <mxCell id="36" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="对应老人账号" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="774.078975285967" y="538.8290940506672" as="geometry" />
+        </mxCell>
+        <mxCell id="37" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="管理档案" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="691.8162598587065" y="339.58216188597913" as="geometry" />
+        </mxCell>
+        <mxCell id="38" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="登记联系人" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="194.59591024920806" y="696.2120804000481" as="geometry" />
+        </mxCell>
+        <mxCell id="39" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="接受评估" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="555.6187182252461" y="229.07004392023532" as="geometry" />
+        </mxCell>
+        <mxCell id="40" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="制定计划" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="336.6938199755672" y="-100.89075644736963" as="geometry" />
+        </mxCell>
+        <mxCell id="41" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="被选用于" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="316.2687562655655" y="-957.2129889852183" as="geometry" />
+        </mxCell>
+        <mxCell id="42" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="包含项目" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="-91.77806544040705" y="-1056.156931453299" as="geometry" />
+        </mxCell>
+        <mxCell id="43" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="安排项目" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="98.49940649736862" y="-845.2591994856799" as="geometry" />
+        </mxCell>
+        <mxCell id="44" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="预约服务" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="14.037796475794188" y="143.56461226528157" as="geometry" />
+        </mxCell>
+        <mxCell id="45" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="对应订单" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="-285.4308654205174" y="-466.58775494395354" as="geometry" />
+        </mxCell>
+        <mxCell id="46" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="产生派单" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="-428.26025061029264" y="217.58681119166621" as="geometry" />
+        </mxCell>
+        <mxCell id="47" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="承接派单" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="-213.16643269807378" y="500.1760418903492" as="geometry" />
+        </mxCell>
+        <mxCell id="48" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="管理护工" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="910.5698662907367" y="-422.97690291423953" as="geometry" />
+        </mxCell>
+        <mxCell id="49" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="持有资质" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="780.0744970544597" y="-586.5309356666635" as="geometry" />
+        </mxCell>
+        <mxCell id="50" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="可承接项目" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="166.30596642886306" y="-553.0121108176069" as="geometry" />
+        </mxCell>
+        <mxCell id="51" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="覆盖社区" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="846.3625443689845" y="-149.28426893632428" as="geometry" />
+        </mxCell>
+        <mxCell id="52" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="安排班次" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="375.7192057518567" y="0.6688338089732753" as="geometry" />
+        </mxCell>
+        <mxCell id="53" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="形成工时" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="-634.9542321161576" y="841.6993065387276" as="geometry" />
+        </mxCell>
+        <mxCell id="54" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="保存资格" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="13.98326090598244" y="-333.7616475569287" as="geometry" />
+        </mxCell>
+        <mxCell id="55" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="提供评估依据" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="706.0134122251735" y="-395.64832793278094" as="geometry" />
+        </mxCell>
+        <mxCell id="56" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="提供计划依据" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="520.9517357882934" y="-726.8430395796819" as="geometry" />
+        </mxCell>
+        <mxCell id="57" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="当前绑定" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="508.18529656026146" y="801.6415463914391" as="geometry" />
+        </mxCell>
+        <mxCell id="58" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="留存绑定历史" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="932.756102961932" y="1159.392853301862" as="geometry" />
+        </mxCell>
+        <mxCell id="59" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="关联绑定历史" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="599.18854552418" y="678.0526178955996" as="geometry" />
+        </mxCell>
+        <mxCell id="60" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="采集体征" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="715.7545367678975" y="1413.586569426797" as="geometry" />
+        </mxCell>
+        <mxCell id="61" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="判定指标" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="864.007820039087" y="1788.1548062428574" as="geometry" />
+        </mxCell>
+        <mxCell id="62" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="发生事件" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="307.863744169278" y="856.0675026594997" as="geometry" />
+        </mxCell>
+        <mxCell id="63" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="规定处置时限" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="90.4510610272577" y="1457.5267311634605" as="geometry" />
+        </mxCell>
+        <mxCell id="64" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="关联体征" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="405.66925042582557" y="1505.5109906889988" as="geometry" />
+        </mxCell>
+        <mxCell id="65" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="配置补贴" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="-459.9064931718039" y="-809.3568357966882" as="geometry" />
+        </mxCell>
+        <mxCell id="66" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="申请补贴" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="-67.38731850138696" y="460.17885043211214" as="geometry" />
+        </mxCell>
+        <mxCell id="67" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="包含明细" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="-779.4119495608611" y="147.50641728831368" as="geometry" />
+        </mxCell>
+        <mxCell id="68" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="纳入申报" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="-603.2405258243173" y="-173.40583636884162" as="geometry" />
+        </mxCell>
+        <mxCell id="69" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="用于核算" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="-910.8667251435202" y="-438.22174902363577" as="geometry" />
+        </mxCell>
+        <mxCell id="70" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="留存审核" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="-808.5620872577965" y="490.97868841800016" as="geometry" />
+        </mxCell>
+        <mxCell id="71" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="接受订单抽查" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="-320.6848052499486" y="54.26648037696032" as="geometry" />
+        </mxCell>
+        <mxCell id="72" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="接受护工抽查" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="244.7259076531306" y="-263.24494099893184" as="geometry" />
+        </mxCell>
+        <mxCell id="73" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="执行并留痕" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="1436.8165658038733" y="755.9349693622758" as="geometry" />
+        </mxCell>
+        <mxCell id="74" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;fontSize=20;fontFamily=SimSun, &quot;Songti SC&quot;, serif;" value="接收账号通知" vertex="1" z="1">
+          <mxGeometry height="50" width="65" x="1458.7216635126574" y="429.22877864646193" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
